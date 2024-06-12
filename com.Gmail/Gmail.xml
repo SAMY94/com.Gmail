@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Test suite" >
+<test name = "Browser Launch">
+<classes>
+<class name="gmail_Common.Gmail_BrowserLaunch">
+</class>
+</classes>
+</test>
+<test name = "login test case">
+<classes>
+<class name="gmail_Common.Gmail_BrowserLaunch">
+</class>
+</classes>
+</test>
+</suite>
+
